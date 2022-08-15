@@ -1,0 +1,3209 @@
+
+        name = colorama 
+
+        version = 0.4.5 
+
+        command': pip install colorama==0.4.5 
+
+        --------------------------------
+        
+        name = colorama-colorize 
+
+        version = 0.0.1 
+
+        command': pip install colorama-colorize==0.0.1 
+
+        --------------------------------
+        
+        name = types-colorama 
+
+        version = 0.4.15 
+
+        command': pip install types-colorama==0.4.15 
+
+        --------------------------------
+        
+        name = Cookies-colorama 
+
+        version = 0.4.6 
+
+        command': pip install Cookies-colorama==0.4.6 
+
+        --------------------------------
+        
+        name = colorama-easy 
+
+        version = 0.1.0 
+
+        command': pip install colorama-easy==0.1.0 
+
+        --------------------------------
+        
+        name = colores 
+
+        version = 0.1.2 
+
+        command': pip install colores==0.1.2 
+
+        --------------------------------
+        
+        name = cols 
+
+        version = 0.0.1 
+
+        command': pip install cols==0.0.1 
+
+        --------------------------------
+        
+        name = demoji-noprint 
+
+        version = 0.3.0 
+
+        command': pip install demoji-noprint==0.3.0 
+
+        --------------------------------
+        
+        name = pyfetchh 
+
+        version = 1.5.3 
+
+        command': pip install pyfetchh==1.5.3 
+
+        --------------------------------
+        
+        name = snakewatch 
+
+        version = 1.0.0 
+
+        command': pip install snakewatch==1.0.0 
+
+        --------------------------------
+        
+        name = bloodyterminal 
+
+        version = 4.0 
+
+        command': pip install bloodyterminal==4.0 
+
+        --------------------------------
+        
+        name = Wicky 
+
+        version = 0.1.2 
+
+        command': pip install Wicky==0.1.2 
+
+        --------------------------------
+        
+        name = Junkyard 
+
+        version = 0.0.3a5 
+
+        command': pip install Junkyard==0.0.3a5 
+
+        --------------------------------
+        
+        name = loadingspinner 
+
+        version = 1.0.1 
+
+        command': pip install loadingspinner==1.0.1 
+
+        --------------------------------
+        
+        name = sveetoy-cli 
+
+        version = 0.3.0 
+
+        command': pip install sveetoy-cli==0.3.0 
+
+        --------------------------------
+        
+        name = lilies 
+
+        version = 0.3.2 
+
+        command': pip install lilies==0.3.2 
+
+        --------------------------------
+        
+        name = 2b2t.py 
+
+        version = 1.7.6 
+
+        command': pip install 2b2t.py==1.7.6 
+
+        --------------------------------
+        
+        name = AnTeML 
+
+        version = 0.1.4 
+
+        command': pip install AnTeML==0.1.4 
+
+        --------------------------------
+        
+        name = txtoml 
+
+        version = 1.0.0 
+
+        command': pip install txtoml==1.0.0 
+
+        --------------------------------
+        
+        name = arbol 
+
+        version = 2021.5.27.641 
+
+        command': pip install arbol==2021.5.27.641 
+
+        --------------------------------
+        
+        name = cprint 
+
+        version = 1.2.2 
+
+        command': pip install cprint==1.2.2 
+
+        --------------------------------
+        
+        name = clrc 
+
+        version = 0.0.5 
+
+        command': pip install clrc==0.0.5 
+
+        --------------------------------
+        
+        name = Colorfully 
+
+        version = 0.0.0 
+
+        command': pip install Colorfully==0.0.0 
+
+        --------------------------------
+        
+        name = seriesmgmtsystem 
+
+        version = 1.1.7 
+
+        command': pip install seriesmgmtsystem==1.1.7 
+
+        --------------------------------
+        
+        name = kanobu 
+
+        version = 0.4.3 
+
+        command': pip install kanobu==0.4.3 
+
+        --------------------------------
+        
+        name = intercessions 
+
+        version = 1.1.8 
+
+        command': pip install intercessions==1.1.8 
+
+        --------------------------------
+        
+        name = boussole 
+
+        version = 2.0.0 
+
+        command': pip install boussole==2.0.0 
+
+        --------------------------------
+        
+        name = mypassman 
+
+        version = 2.0.0 
+
+        command': pip install mypassman==2.0.0 
+
+        --------------------------------
+        
+        name = prysenter 
+
+        version = 1.0 
+
+        command': pip install prysenter==1.0 
+
+        --------------------------------
+        
+        name = clirainbow 
+
+        version = 1.2.0 
+
+        command': pip install clirainbow==1.2.0 
+
+        --------------------------------
+        
+        name = pyux-track 
+
+        version = 0.1.4 
+
+        command': pip install pyux-track==0.1.4 
+
+        --------------------------------
+        
+        name = mchp-flasher-essentials 
+
+        version = 0.0.6 
+
+        command': pip install mchp-flasher-essentials==0.0.6 
+
+        --------------------------------
+        
+        name = polygon-cli 
+
+        version = 1.1.11 
+
+        command': pip install polygon-cli==1.1.11 
+
+        --------------------------------
+        
+        name = hashchecker 
+
+        version = 1.3 
+
+        command': pip install hashchecker==1.3 
+
+        --------------------------------
+        
+        name = bysh 
+
+        version = 0.0.4 
+
+        command': pip install bysh==0.0.4 
+
+        --------------------------------
+        
+        name = prey 
+
+        version = 0.1.4 
+
+        command': pip install prey==0.1.4 
+
+        --------------------------------
+        
+        name = thank-you-stars 
+
+        version = 0.1.0 
+
+        command': pip install thank-you-stars==0.1.0 
+
+        --------------------------------
+        
+        name = reqman 
+
+        version = 3.0.4 
+
+        command': pip install reqman==3.0.4 
+
+        --------------------------------
+        
+        name = colour-print 
+
+        version = 0.0.2 
+
+        command': pip install colour-print==0.0.2 
+
+        --------------------------------
+        
+        name = pytest-colordots 
+
+        version = 1.1 
+
+        command': pip install pytest-colordots==1.1 
+
+        --------------------------------
+        
+        name = f1-racers-report 
+
+        version = 1.0.8 
+
+        command': pip install f1-racers-report==1.0.8 
+
+        --------------------------------
+        
+        name = timmytimer 
+
+        version = 0.2 
+
+        command': pip install timmytimer==0.2 
+
+        --------------------------------
+        
+        name = Dead-Link-Checker 
+
+        version = 1.0.0 
+
+        command': pip install Dead-Link-Checker==1.0.0 
+
+        --------------------------------
+        
+        name = microtest-framework 
+
+        version = 1.0.1 
+
+        command': pip install microtest-framework==1.0.1 
+
+        --------------------------------
+        
+        name = mailtransfer 
+
+        version = 1.3 
+
+        command': pip install mailtransfer==1.3 
+
+        --------------------------------
+        
+        name = text-menu 
+
+        version = 0.0.1 
+
+        command': pip install text-menu==0.0.1 
+
+        --------------------------------
+        
+        name = chromalog 
+
+        version = 1.0.5 
+
+        command': pip install chromalog==1.0.5 
+
+        --------------------------------
+        
+        name = pyzzy 
+
+        version = 0.0.11 
+
+        command': pip install pyzzy==0.0.11 
+
+        --------------------------------
+        
+        name = animemon 
+
+        version = 0.1.1 
+
+        command': pip install animemon==0.1.1 
+
+        --------------------------------
+        
+        name = bllog 
+
+        version = 1.0.0 
+
+        command': pip install bllog==1.0.0 
+
+        --------------------------------
+        
+        name = testarium 
+
+        version = 0.5.23 
+
+        command': pip install testarium==0.5.23 
+
+        --------------------------------
+        
+        name = buzio 
+
+        version = 1.1.2 
+
+        command': pip install buzio==1.1.2 
+
+        --------------------------------
+        
+        name = magurn 
+
+        version = 2.2.3 
+
+        command': pip install magurn==2.2.3 
+
+        --------------------------------
+        
+        name = sim-sm 
+
+        version = 0.9 
+
+        command': pip install sim-sm==0.9 
+
+        --------------------------------
+        
+        name = dazzle 
+
+        version = 1.0.1 
+
+        command': pip install dazzle==1.0.1 
+
+        --------------------------------
+        
+        name = somafm 
+
+        version = 1.71 
+
+        command': pip install somafm==1.71 
+
+        --------------------------------
+        
+        name = covid19-counter-richwellum 
+
+        version = 0.0.1 
+
+        command': pip install covid19-counter-richwellum==0.0.1 
+
+        --------------------------------
+        
+        name = askitsu 
+
+        version = 0.5.0 
+
+        command': pip install askitsu==0.5.0 
+
+        --------------------------------
+        
+        name = pytui 
+
+        version = 0.0 
+
+        command': pip install pytui==0.0 
+
+        --------------------------------
+        
+        name = covid19-counter-pkg-richwellum 
+
+        version = 0.0.6 
+
+        command': pip install covid19-counter-pkg-richwellum==0.0.6 
+
+        --------------------------------
+        
+        name = tcex 
+
+        version = 3.0.3 
+
+        command': pip install tcex==3.0.3 
+
+        --------------------------------
+        
+        name = open-mastermind 
+
+        version = 0.2.0 
+
+        command': pip install open-mastermind==0.2.0 
+
+        --------------------------------
+        
+        name = passpy 
+
+        version = 1.0.2 
+
+        command': pip install passpy==1.0.2 
+
+        --------------------------------
+        
+        name = cmdprogress 
+
+        version = 1.2 
+
+        command': pip install cmdprogress==1.2 
+
+        --------------------------------
+        
+        name = ascii-magic 
+
+        version = 1.6 
+
+        command': pip install ascii-magic==1.6 
+
+        --------------------------------
+        
+        name = fab-admin 
+
+        version = 0.1.5 
+
+        command': pip install fab-admin==0.1.5 
+
+        --------------------------------
+        
+        name = rovel.py 
+
+        version = 0.0.2 
+
+        command': pip install rovel.py==0.0.2 
+
+        --------------------------------
+        
+        name = cuia 
+
+        version = 0.1.1 
+
+        command': pip install cuia==0.1.1 
+
+        --------------------------------
+        
+        name = image2ascii 
+
+        version = 0.4.10 
+
+        command': pip install image2ascii==0.4.10 
+
+        --------------------------------
+        
+        name = cusser 
+
+        version = 0.1.1 
+
+        command': pip install cusser==0.1.1 
+
+        --------------------------------
+        
+        name = maildiff 
+
+        version = 1.3.2 
+
+        command': pip install maildiff==1.3.2 
+
+        --------------------------------
+        
+        name = xontrib-readable-traceback 
+
+        version = 0.3.2 
+
+        command': pip install xontrib-readable-traceback==0.3.2 
+
+        --------------------------------
+        
+        name = glot 
+
+        version = 0.1.5 
+
+        command': pip install glot==0.1.5 
+
+        --------------------------------
+        
+        name = sushi-sub 
+
+        version = 0.6.2 
+
+        command': pip install sushi-sub==0.6.2 
+
+        --------------------------------
+        
+        name = demoji-lambda 
+
+        version = 0.4.0 
+
+        command': pip install demoji-lambda==0.4.0 
+
+        --------------------------------
+        
+        name = fileselector 
+
+        version = 1.0.4 
+
+        command': pip install fileselector==1.0.4 
+
+        --------------------------------
+        
+        name = grblcom 
+
+        version = 0.0.0 
+
+        command': pip install grblcom==0.0.0 
+
+        --------------------------------
+        
+        name = demoji 
+
+        version = 1.1.0 
+
+        command': pip install demoji==1.1.0 
+
+        --------------------------------
+        
+        name = gpp-cpass-decrypt 
+
+        version = 0.0.1 
+
+        command': pip install gpp-cpass-decrypt==0.0.1 
+
+        --------------------------------
+        
+        name = koinput 
+
+        version = 0.3.2 
+
+        command': pip install koinput==0.3.2 
+
+        --------------------------------
+        
+        name = terminal 
+
+        version = 0.4.0 
+
+        command': pip install terminal==0.4.0 
+
+        --------------------------------
+        
+        name = tsru 
+
+        version = 0.1.0 
+
+        command': pip install tsru==0.1.0 
+
+        --------------------------------
+        
+        name = free-proxies-useragents 
+
+        version = 1.0.1 
+
+        command': pip install free-proxies-useragents==1.0.1 
+
+        --------------------------------
+        
+        name = python-commonkit 
+
+        version = 1.13.0 
+
+        command': pip install python-commonkit==1.13.0 
+
+        --------------------------------
+        
+        name = moviemon 
+
+        version = 1.0.11 
+
+        command': pip install moviemon==1.0.11 
+
+        --------------------------------
+        
+        name = pykaging 
+
+        version = 0.6.7 
+
+        command': pip install pykaging==0.6.7 
+
+        --------------------------------
+        
+        name = FFfilter 
+
+        version = 0.0.3 
+
+        command': pip install FFfilter==0.0.3 
+
+        --------------------------------
+        
+        name = Pycolor 
+
+        version = 1.2.1 
+
+        command': pip install Pycolor==1.2.1 
+
+        --------------------------------
+        
+        name = huepy 
+
+        version = 1.2.1 
+
+        command': pip install huepy==1.2.1 
+
+        --------------------------------
+        
+        name = colorwrap 
+
+        version = 0.1.5 
+
+        command': pip install colorwrap==0.1.5 
+
+        --------------------------------
+        
+        name = rgbprint 
+
+        version = 3.0.5 
+
+        command': pip install rgbprint==3.0.5 
+
+        --------------------------------
+        
+        name = snaptimer 
+
+        version = 0.0.5 
+
+        command': pip install snaptimer==0.0.5 
+
+        --------------------------------
+        
+        name = suffuse-log 
+
+        version = 0.1 
+
+        command': pip install suffuse-log==0.1 
+
+        --------------------------------
+        
+        name = musikla 
+
+        version = 0.7.2 
+
+        command': pip install musikla==0.7.2 
+
+        --------------------------------
+        
+        name = orcidfind 
+
+        version = 0.1a.6 
+
+        command': pip install orcidfind==0.1a.6 
+
+        --------------------------------
+        
+        name = pdir2 
+
+        version = 0.3.6 
+
+        command': pip install pdir2==0.3.6 
+
+        --------------------------------
+        
+        name = pytest-timer 
+
+        version = 0.0.11 
+
+        command': pip install pytest-timer==0.0.11 
+
+        --------------------------------
+        
+        name = todo.py 
+
+        version = 0.3 
+
+        command': pip install todo.py==0.3 
+
+        --------------------------------
+        
+        name = whoisxmlapiaa 
+
+        version = 1.0.2 
+
+        command': pip install whoisxmlapiaa==1.0.2 
+
+        --------------------------------
+        
+        name = petri 
+
+        version = 0.24.1 
+
+        command': pip install petri==0.24.1 
+
+        --------------------------------
+        
+        name = ansimarkup 
+
+        version = 1.5.0 
+
+        command': pip install ansimarkup==1.5.0 
+
+        --------------------------------
+        
+        name = colorhex 
+
+        version = 2.64 
+
+        command': pip install colorhex==2.64 
+
+        --------------------------------
+        
+        name = rainbowcsv 
+
+        version = 1.0.2 
+
+        command': pip install rainbowcsv==1.0.2 
+
+        --------------------------------
+        
+        name = sol3rd 
+
+        version = 0.3.1 
+
+        command': pip install sol3rd==0.3.1 
+
+        --------------------------------
+        
+        name = linkreaper 
+
+        version = 0.0.6 
+
+        command': pip install linkreaper==0.0.6 
+
+        --------------------------------
+        
+        name = ytcl 
+
+        version = 1.1.0 
+
+        command': pip install ytcl==1.1.0 
+
+        --------------------------------
+        
+        name = MovieSerieTorrent 
+
+        version = 1.0.16 
+
+        command': pip install MovieSerieTorrent==1.0.16 
+
+        --------------------------------
+        
+        name = paca 
+
+        version = 0.1.0 
+
+        command': pip install paca==0.1.0 
+
+        --------------------------------
+        
+        name = gt2-test-runner 
+
+        version = 1.0 
+
+        command': pip install gt2-test-runner==1.0 
+
+        --------------------------------
+        
+        name = pylint-runner 
+
+        version = 0.6.0 
+
+        command': pip install pylint-runner==0.6.0 
+
+        --------------------------------
+        
+        name = bapctools 
+
+        version = 0.1 
+
+        command': pip install bapctools==0.1 
+
+        --------------------------------
+        
+        name = to-ascii 
+
+        version = 5.0.1 
+
+        command': pip install to-ascii==5.0.1 
+
+        --------------------------------
+        
+        name = mps-youtube 
+
+        version = 0.2.8 
+
+        command': pip install mps-youtube==0.2.8 
+
+        --------------------------------
+        
+        name = pycrobit 
+
+        version = 0.2.0 
+
+        command': pip install pycrobit==0.2.0 
+
+        --------------------------------
+        
+        name = colored-traceback 
+
+        version = 0.3.0 
+
+        command': pip install colored-traceback==0.3.0 
+
+        --------------------------------
+        
+        name = movielst 
+
+        version = 2.5.0 
+
+        command': pip install movielst==2.5.0 
+
+        --------------------------------
+        
+        name = colorboy 
+
+        version = 1.0.3 
+
+        command': pip install colorboy==1.0.3 
+
+        --------------------------------
+        
+        name = better-crayons 
+
+        version = 0.0.2 
+
+        command': pip install better-crayons==0.0.2 
+
+        --------------------------------
+        
+        name = gcptree 
+
+        version = 0.2.0 
+
+        command': pip install gcptree==0.2.0 
+
+        --------------------------------
+        
+        name = pyhdfview 
+
+        version = 0.2 
+
+        command': pip install pyhdfview==0.2 
+
+        --------------------------------
+        
+        name = twimage 
+
+        version = 0.1.2 
+
+        command': pip install twimage==0.1.2 
+
+        --------------------------------
+        
+        name = basepackage 
+
+        version = 0.1.1 
+
+        command': pip install basepackage==0.1.1 
+
+        --------------------------------
+        
+        name = polyglot-translator 
+
+        version = 2.2.2 
+
+        command': pip install polyglot-translator==2.2.2 
+
+        --------------------------------
+        
+        name = riceprint 
+
+        version = 1.5.6 
+
+        command': pip install riceprint==1.5.6 
+
+        --------------------------------
+        
+        name = XAnimePorn 
+
+        version = 1.2 
+
+        command': pip install XAnimePorn==1.2 
+
+        --------------------------------
+        
+        name = pyostra 
+
+        version = 0.1.4 
+
+        command': pip install pyostra==0.1.4 
+
+        --------------------------------
+        
+        name = mps 
+
+        version = 0.20.16 
+
+        command': pip install mps==0.20.16 
+
+        --------------------------------
+        
+        name = pip-box 
+
+        version = 0.4.5 
+
+        command': pip install pip-box==0.4.5 
+
+        --------------------------------
+        
+        name = msl-package-manager 
+
+        version = 2.5.2 
+
+        command': pip install msl-package-manager==2.5.2 
+
+        --------------------------------
+        
+        name = ttyrecgenerator 
+
+        version = 0.6.0 
+
+        command': pip install ttyrecgenerator==0.6.0 
+
+        --------------------------------
+        
+        name = filewatch-cli 
+
+        version = 1.0.1 
+
+        command': pip install filewatch-cli==1.0.1 
+
+        --------------------------------
+        
+        name = template-flask 
+
+        version = 2.1 
+
+        command': pip install template-flask==2.1 
+
+        --------------------------------
+        
+        name = kommand 
+
+        version = 0.3 
+
+        command': pip install kommand==0.3 
+
+        --------------------------------
+        
+        name = octopulse-logger 
+
+        version = 0.2.1 
+
+        command': pip install octopulse-logger==0.2.1 
+
+        --------------------------------
+        
+        name = pyinputhandler 
+
+        version = 1.3.0 
+
+        command': pip install pyinputhandler==1.3.0 
+
+        --------------------------------
+        
+        name = ctprint 
+
+        version = 0.1.8 
+
+        command': pip install ctprint==0.1.8 
+
+        --------------------------------
+        
+        name = requirementslib 
+
+        version = 1.6.9 
+
+        command': pip install requirementslib==1.6.9 
+
+        --------------------------------
+        
+        name = win_unicode_console 
+
+        version = 0.5 
+
+        command': pip install win_unicode_console==0.5 
+
+        --------------------------------
+        
+        name = crayons 
+
+        version = 0.4.0 
+
+        command': pip install crayons==0.4.0 
+
+        --------------------------------
+        
+        name = Python-Bash-Utils 
+
+        version = 0.3.2 
+
+        command': pip install Python-Bash-Utils==0.3.2 
+
+        --------------------------------
+        
+        name = pipman 
+
+        version = 0.0.3 
+
+        command': pip install pipman==0.0.3 
+
+        --------------------------------
+        
+        name = tree_output 
+
+        version = 0.1.4 
+
+        command': pip install tree_output==0.1.4 
+
+        --------------------------------
+        
+        name = showme 
+
+        version = 1.0.0 
+
+        command': pip install showme==1.0.0 
+
+        --------------------------------
+        
+        name = discumremaded 
+
+        version = 0.25 
+
+        command': pip install discumremaded==0.25 
+
+        --------------------------------
+        
+        name = pycvs 
+
+        version = 0.0.3 
+
+        command': pip install pycvs==0.0.3 
+
+        --------------------------------
+        
+        name = tweetuoso 
+
+        version = 1.0.5 
+
+        command': pip install tweetuoso==1.0.5 
+
+        --------------------------------
+        
+        name = startcp-cli 
+
+        version = 1.0.3 
+
+        command': pip install startcp-cli==1.0.3 
+
+        --------------------------------
+        
+        name = setuptools-py2cfg 
+
+        version = 2.0.0 
+
+        command': pip install setuptools-py2cfg==2.0.0 
+
+        --------------------------------
+        
+        name = matt 
+
+        version = 0.2.0 
+
+        command': pip install matt==0.2.0 
+
+        --------------------------------
+        
+        name = styled-log 
+
+        version = 1.0 
+
+        command': pip install styled-log==1.0 
+
+        --------------------------------
+        
+        name = craftr-build 
+
+        version = 2.0.0 
+
+        command': pip install craftr-build==2.0.0 
+
+        --------------------------------
+        
+        name = django-juno-testrunner 
+
+        version = 0.4.1 
+
+        command': pip install django-juno-testrunner==0.4.1 
+
+        --------------------------------
+        
+        name = hive-metasploit 
+
+        version = 0.0.1a2 
+
+        command': pip install hive-metasploit==0.0.1a2 
+
+        --------------------------------
+        
+        name = makepy 
+
+        version = 0.0.26 
+
+        command': pip install makepy==0.0.26 
+
+        --------------------------------
+        
+        name = gr-colorlog 
+
+        version = 4.2.1 
+
+        command': pip install gr-colorlog==4.2.1 
+
+        --------------------------------
+        
+        name = yaml-error-report 
+
+        version = 0.1.0 
+
+        command': pip install yaml-error-report==0.1.0 
+
+        --------------------------------
+        
+        name = sylo 
+
+        version = 2.5.4 
+
+        command': pip install sylo==2.5.4 
+
+        --------------------------------
+        
+        name = keycloak-sync 
+
+        version = 1.0.0 
+
+        command': pip install keycloak-sync==1.0.0 
+
+        --------------------------------
+        
+        name = toomanyfiles 
+
+        version = 0.5.0 
+
+        command': pip install toomanyfiles==0.5.0 
+
+        --------------------------------
+        
+        name = ansible-role-manager 
+
+        version = 0.4 
+
+        command': pip install ansible-role-manager==0.4 
+
+        --------------------------------
+        
+        name = cmanager 
+
+        version = 2.6 
+
+        command': pip install cmanager==2.6 
+
+        --------------------------------
+        
+        name = ssh-commander 
+
+        version = 0.3 
+
+        command': pip install ssh-commander==0.3 
+
+        --------------------------------
+        
+        name = tpsp 
+
+        version = 1.0.1 
+
+        command': pip install tpsp==1.0.1 
+
+        --------------------------------
+        
+        name = hpass 
+
+        version = 0.2.1 
+
+        command': pip install hpass==0.2.1 
+
+        --------------------------------
+        
+        name = kolors 
+
+        version = 0.0.4 
+
+        command': pip install kolors==0.0.4 
+
+        --------------------------------
+        
+        name = pyCodeEncryptor 
+
+        version = 0.1.0 
+
+        command': pip install pyCodeEncryptor==0.1.0 
+
+        --------------------------------
+        
+        name = log-ext 
+
+        version = 1.1.0 
+
+        command': pip install log-ext==1.1.0 
+
+        --------------------------------
+        
+        name = logma 
+
+        version = 0.4.0 
+
+        command': pip install logma==0.4.0 
+
+        --------------------------------
+        
+        name = terminal-layout 
+
+        version = 2.1.2 
+
+        command': pip install terminal-layout==2.1.2 
+
+        --------------------------------
+        
+        name = tblock 
+
+        version = 2.3.0 
+
+        command': pip install tblock==2.3.0 
+
+        --------------------------------
+        
+        name = gift-wrapper 
+
+        version = 1.7.0.1 
+
+        command': pip install gift-wrapper==1.7.0.1 
+
+        --------------------------------
+        
+        name = cwmon 
+
+        version = 0.5.0 
+
+        command': pip install cwmon==0.5.0 
+
+        --------------------------------
+        
+        name = doopla 
+
+        version = 0.3.0 
+
+        command': pip install doopla==0.3.0 
+
+        --------------------------------
+        
+        name = pywfc 
+
+        version = 0.0.0 
+
+        command': pip install pywfc==0.0.0 
+
+        --------------------------------
+        
+        name = pybuildtools 
+
+        version = 0.4.17 
+
+        command': pip install pybuildtools==0.4.17 
+
+        --------------------------------
+        
+        name = R3con1z3r 
+
+        version = 1.0.6 
+
+        command': pip install R3con1z3r==1.0.6 
+
+        --------------------------------
+        
+        name = directory-downloader 
+
+        version = 2.0.1 
+
+        command': pip install directory-downloader==2.0.1 
+
+        --------------------------------
+        
+        name = console 
+
+        version = 0.9907 
+
+        command': pip install console==0.9907 
+
+        --------------------------------
+        
+        name = coloratura 
+
+        version = 1.0 
+
+        command': pip install coloratura==1.0 
+
+        --------------------------------
+        
+        name = colorlog 
+
+        version = 6.6.0 
+
+        command': pip install colorlog==6.6.0 
+
+        --------------------------------
+        
+        name = pip-outdated 
+
+        version = 0.5.0 
+
+        command': pip install pip-outdated==0.5.0 
+
+        --------------------------------
+        
+        name = didyoureadme 
+
+        version = 20181122 
+
+        command': pip install didyoureadme==20181122 
+
+        --------------------------------
+        
+        name = py-maia 
+
+        version = 1.5 
+
+        command': pip install py-maia==1.5 
+
+        --------------------------------
+        
+        name = mischief 
+
+        version = 0.1.0 
+
+        command': pip install mischief==0.1.0 
+
+        --------------------------------
+        
+        name = pip-compile-cross-platform 
+
+        version = 1.0.1 
+
+        command': pip install pip-compile-cross-platform==1.0.1 
+
+        --------------------------------
+        
+        name = tickets 
+
+        version = 0.3.0 
+
+        command': pip install tickets==0.3.0 
+
+        --------------------------------
+        
+        name = cli-utility 
+
+        version = 1.0.0 
+
+        command': pip install cli-utility==1.0.0 
+
+        --------------------------------
+        
+        name = recpermissions 
+
+        version = 1.10.0 
+
+        command': pip install recpermissions==1.10.0 
+
+        --------------------------------
+        
+        name = redfish-protocol-validator 
+
+        version = 1.1.2 
+
+        command': pip install redfish-protocol-validator==1.1.2 
+
+        --------------------------------
+        
+        name = piefish 
+
+        version = 0.1.9a0 
+
+        command': pip install piefish==0.1.9a0 
+
+        --------------------------------
+        
+        name = bloby 
+
+        version = 1.2.1 
+
+        command': pip install bloby==1.2.1 
+
+        --------------------------------
+        
+        name = imparaai-BFHScheckers-for-BFHS-programming 
+
+        version = 1.4.2.4 
+
+        command': pip install imparaai-BFHScheckers-for-BFHS-programming==1.4.2.4 
+
+        --------------------------------
+        
+        name = serverlla 
+
+        version = 1.23 
+
+        command': pip install serverlla==1.23 
+
+        --------------------------------
+        
+        name = qdpy 
+
+        version = 0.1.2.1 
+
+        command': pip install qdpy==0.1.2.1 
+
+        --------------------------------
+        
+        name = scikit-ribo 
+
+        version = 0.2.4b1 
+
+        command': pip install scikit-ribo==0.2.4b1 
+
+        --------------------------------
+        
+        name = foodalgo-uvicorn 
+
+        version = 1.0.2 
+
+        command': pip install foodalgo-uvicorn==1.0.2 
+
+        --------------------------------
+        
+        name = nose-colorxunit 
+
+        version = 0.2.0 
+
+        command': pip install nose-colorxunit==0.2.0 
+
+        --------------------------------
+        
+        name = subset 
+
+        version = 0.1.2 
+
+        command': pip install subset==0.1.2 
+
+        --------------------------------
+        
+        name = storyscript 
+
+        version = 0.0.3 
+
+        command': pip install storyscript==0.0.3 
+
+        --------------------------------
+        
+        name = geoDL 
+
+        version = 1.0b21 
+
+        command': pip install geoDL==1.0b21 
+
+        --------------------------------
+        
+        name = imparaai-checkers-for-BFHS-programming 
+
+        version = 1.4.2.2 
+
+        command': pip install imparaai-checkers-for-BFHS-programming==1.4.2.2 
+
+        --------------------------------
+        
+        name = PrettyPrintTree 
+
+        version = 1.36.2 
+
+        command': pip install PrettyPrintTree==1.36.2 
+
+        --------------------------------
+        
+        name = sycc 
+
+        version = 0.8.5 
+
+        command': pip install sycc==0.8.5 
+
+        --------------------------------
+        
+        name = logzero 
+
+        version = 1.7.0 
+
+        command': pip install logzero==1.7.0 
+
+        --------------------------------
+        
+        name = pyconio 
+
+        version = 0.020 
+
+        command': pip install pyconio==0.020 
+
+        --------------------------------
+        
+        name = AthenaColor 
+
+        version = 6.2.0 
+
+        command': pip install AthenaColor==6.2.0 
+
+        --------------------------------
+        
+        name = pip-upgrade-tool 
+
+        version = 0.7.3 
+
+        command': pip install pip-upgrade-tool==0.7.3 
+
+        --------------------------------
+        
+        name = tibiawikisql 
+
+        version = 6.2.0 
+
+        command': pip install tibiawikisql==6.2.0 
+
+        --------------------------------
+        
+        name = pipenv-pipes 
+
+        version = 0.7.1 
+
+        command': pip install pipenv-pipes==0.7.1 
+
+        --------------------------------
+        
+        name = raincoat-jackett 
+
+        version = 1.3.1 
+
+        command': pip install raincoat-jackett==1.3.1 
+
+        --------------------------------
+        
+        name = sw360 
+
+        version = 1.2.0 
+
+        command': pip install sw360==1.2.0 
+
+        --------------------------------
+        
+        name = pdf2odt 
+
+        version = 0.7.0 
+
+        command': pip install pdf2odt==0.7.0 
+
+        --------------------------------
+        
+        name = Termux-SSH 
+
+        version = 1.0.0 
+
+        command': pip install Termux-SSH==1.0.0 
+
+        --------------------------------
+        
+        name = print-chat 
+
+        version = 0.4 
+
+        command': pip install print-chat==0.4 
+
+        --------------------------------
+        
+        name = nameko-structlog 
+
+        version = 0.2.2 
+
+        command': pip install nameko-structlog==0.2.2 
+
+        --------------------------------
+        
+        name = milc 
+
+        version = 1.6.6 
+
+        command': pip install milc==1.6.6 
+
+        --------------------------------
+        
+        name = iquery 
+
+        version = 0.5.0 
+
+        command': pip install iquery==0.5.0 
+
+        --------------------------------
+        
+        name = qlogging 
+
+        version = 1.3.1 
+
+        command': pip install qlogging==1.3.1 
+
+        --------------------------------
+        
+        name = wscan 
+
+        version = 2.4.4 
+
+        command': pip install wscan==2.4.4 
+
+        --------------------------------
+        
+        name = pyringe 
+
+        version = 1.0.2 
+
+        command': pip install pyringe==1.0.2 
+
+        --------------------------------
+        
+        name = colorlabels 
+
+        version = 0.7.0 
+
+        command': pip install colorlabels==0.7.0 
+
+        --------------------------------
+        
+        name = wifipasswords 
+
+        version = 0.4.1b0 
+
+        command': pip install wifipasswords==0.4.1b0 
+
+        --------------------------------
+        
+        name = deplodocker 
+
+        version = 0.2.1 
+
+        command': pip install deplodocker==0.2.1 
+
+        --------------------------------
+        
+        name = Montreal-Forced-Aligner 
+
+        version = 2.0.5 
+
+        command': pip install Montreal-Forced-Aligner==2.0.5 
+
+        --------------------------------
+        
+        name = pyenvcomp 
+
+        version = 1.0.3 
+
+        command': pip install pyenvcomp==1.0.3 
+
+        --------------------------------
+        
+        name = EmailHarvester 
+
+        version = 2.0.1 
+
+        command': pip install EmailHarvester==2.0.1 
+
+        --------------------------------
+        
+        name = easygit 
+
+        version = 1.0.4 
+
+        command': pip install easygit==1.0.4 
+
+        --------------------------------
+        
+        name = isos-environment-test 
+
+        version = 0.0.4 
+
+        command': pip install isos-environment-test==0.0.4 
+
+        --------------------------------
+        
+        name = python-captains-log 
+
+        version = 0.6.2 
+
+        command': pip install python-captains-log==0.6.2 
+
+        --------------------------------
+        
+        name = hexdump2 
+
+        version = 1.1.1 
+
+        command': pip install hexdump2==1.1.1 
+
+        --------------------------------
+        
+        name = HXMK 
+
+        version = 0.0.9 
+
+        command': pip install HXMK==0.0.9 
+
+        --------------------------------
+        
+        name = hive-nuclei 
+
+        version = 0.0.2 
+
+        command': pip install hive-nuclei==0.0.2 
+
+        --------------------------------
+        
+        name = opbasm 
+
+        version = 1.3 
+
+        command': pip install opbasm==1.3 
+
+        --------------------------------
+        
+        name = pippkgapi 
+
+        version = 0.0.2 
+
+        command': pip install pippkgapi==0.0.2 
+
+        --------------------------------
+        
+        name = tpljson 
+
+        version = 0.1.5 
+
+        command': pip install tpljson==0.1.5 
+
+        --------------------------------
+        
+        name = IMTreatment 
+
+        version = 1.3.2 
+
+        command': pip install IMTreatment==1.3.2 
+
+        --------------------------------
+        
+        name = xutil 
+
+        version = 0.2.3 
+
+        command': pip install xutil==0.2.3 
+
+        --------------------------------
+        
+        name = pippkg-api 
+
+        version = 0.0.2 
+
+        command': pip install pippkg-api==0.0.2 
+
+        --------------------------------
+        
+        name = wiki-music 
+
+        version = 0.6a0 
+
+        command': pip install wiki-music==0.6a0 
+
+        --------------------------------
+        
+        name = fossbotpy 
+
+        version = 0.0.1 
+
+        command': pip install fossbotpy==0.0.1 
+
+        --------------------------------
+        
+        name = pyditz 
+
+        version = 0.11 
+
+        command': pip install pyditz==0.11 
+
+        --------------------------------
+        
+        name = cilantropy 
+
+        version = 0.2.7.post1 
+
+        command': pip install cilantropy==0.2.7.post1 
+
+        --------------------------------
+        
+        name = Tinge 
+
+        version = 0.0.6 
+
+        command': pip install Tinge==0.0.6 
+
+        --------------------------------
+        
+        name = ddns-client 
+
+        version = 0.8 
+
+        command': pip install ddns-client==0.8 
+
+        --------------------------------
+        
+        name = fail2bangeolocation 
+
+        version = 1.0.1 
+
+        command': pip install fail2bangeolocation==1.0.1 
+
+        --------------------------------
+        
+        name = pywinpath 
+
+        version = 2016.5.3b3 
+
+        command': pip install pywinpath==2016.5.3b3 
+
+        --------------------------------
+        
+        name = DavesLogger 
+
+        version = 1.1.0 
+
+        command': pip install DavesLogger==1.1.0 
+
+        --------------------------------
+        
+        name = iliasScraper 
+
+        version = 0.1.8 
+
+        command': pip install iliasScraper==0.1.8 
+
+        --------------------------------
+        
+        name = ats-utilities 
+
+        version = 2.5.5 
+
+        command': pip install ats-utilities==2.5.5 
+
+        --------------------------------
+        
+        name = PyFunceble-dev 
+
+        version = 4.1.2 
+
+        command': pip install PyFunceble-dev==4.1.2 
+
+        --------------------------------
+        
+        name = PyFunceble 
+
+        version = 4.1.0 
+
+        command': pip install PyFunceble==4.1.0 
+
+        --------------------------------
+        
+        name = colored 
+
+        version = 1.4.3 
+
+        command': pip install colored==1.4.3 
+
+        --------------------------------
+        
+        name = termcolor-dg 
+
+        version = 0.9.3 
+
+        command': pip install termcolor-dg==0.9.3 
+
+        --------------------------------
+        
+        name = seqpipe 
+
+        version = 0.0.7 
+
+        command': pip install seqpipe==0.0.7 
+
+        --------------------------------
+        
+        name = piano-vis 
+
+        version = 0.2.1 
+
+        command': pip install piano-vis==0.2.1 
+
+        --------------------------------
+        
+        name = hardware-tools 
+
+        version = 0.5.0 
+
+        command': pip install hardware-tools==0.5.0 
+
+        --------------------------------
+        
+        name = haggis 
+
+        version = 0.5.0 
+
+        command': pip install haggis==0.5.0 
+
+        --------------------------------
+        
+        name = uvicorn 
+
+        version = 0.18.2 
+
+        command': pip install uvicorn==0.18.2 
+
+        --------------------------------
+        
+        name = pcshell 
+
+        version = 0.2.3 
+
+        command': pip install pcshell==0.2.3 
+
+        --------------------------------
+        
+        name = terminedia 
+
+        version = 0.4.2 
+
+        command': pip install terminedia==0.4.2 
+
+        --------------------------------
+        
+        name = text2art 
+
+        version = 0.2.0 
+
+        command': pip install text2art==0.2.0 
+
+        --------------------------------
+        
+        name = ansi-escape-room 
+
+        version = 1.4.2 
+
+        command': pip install ansi-escape-room==1.4.2 
+
+        --------------------------------
+        
+        name = ti 
+
+        version = 0.1.2 
+
+        command': pip install ti==0.1.2 
+
+        --------------------------------
+        
+        name = httpaws 
+
+        version = 0.0.4 
+
+        command': pip install httpaws==0.0.4 
+
+        --------------------------------
+        
+        name = stock-trader 
+
+        version = 0.0.4 
+
+        command': pip install stock-trader==0.0.4 
+
+        --------------------------------
+        
+        name = bettergitcli 
+
+        version = 1.3.0 
+
+        command': pip install bettergitcli==1.3.0 
+
+        --------------------------------
+        
+        name = raincoat-prowlarr 
+
+        version = 0.2.3 
+
+        command': pip install raincoat-prowlarr==0.2.3 
+
+        --------------------------------
+        
+        name = winbackup 
+
+        version = 0.2.0b0 
+
+        command': pip install winbackup==0.2.0b0 
+
+        --------------------------------
+        
+        name = fr 
+
+        version = 3.0 
+
+        command': pip install fr==3.0 
+
+        --------------------------------
+        
+        name = PySys 
+
+        version = 2.1 
+
+        command': pip install PySys==2.1 
+
+        --------------------------------
+        
+        name = thoth-build-analysers 
+
+        version = 0.1.0 
+
+        command': pip install thoth-build-analysers==0.1.0 
+
+        --------------------------------
+        
+        name = hugon 
+
+        version = 0.1.7 
+
+        command': pip install hugon==0.1.7 
+
+        --------------------------------
+        
+        name = coloredlogs 
+
+        version = 15.0.1 
+
+        command': pip install coloredlogs==15.0.1 
+
+        --------------------------------
+        
+        name = Blackboard-LMS-CLI 
+
+        version = 1.0.9 
+
+        command': pip install Blackboard-LMS-CLI==1.0.9 
+
+        --------------------------------
+        
+        name = python-console 
+
+        version = 1.3.2 
+
+        command': pip install python-console==1.3.2 
+
+        --------------------------------
+        
+        name = takiyasha 
+
+        version = 0.7.0 
+
+        command': pip install takiyasha==0.7.0 
+
+        --------------------------------
+        
+        name = pyboozo 
+
+        version = 1.0.8 
+
+        command': pip install pyboozo==1.0.8 
+
+        --------------------------------
+        
+        name = esg 
+
+        version = 0.2.0 
+
+        command': pip install esg==0.2.0 
+
+        --------------------------------
+        
+        name = uip-cli 
+
+        version = 1.2.0 
+
+        command': pip install uip-cli==1.2.0 
+
+        --------------------------------
+        
+        name = properjpg 
+
+        version = 0.3.1 
+
+        command': pip install properjpg==0.3.1 
+
+        --------------------------------
+        
+        name = pyTooling.TerminalUI 
+
+        version = 1.5.9 
+
+        command': pip install pyTooling.TerminalUI==1.5.9 
+
+        --------------------------------
+        
+        name = fastlogging 
+
+        version = 1.0.0 
+
+        command': pip install fastlogging==1.0.0 
+
+        --------------------------------
+        
+        name = fast-logging 
+
+        version = 1.0.2 
+
+        command': pip install fast-logging==1.0.2 
+
+        --------------------------------
+        
+        name = py-html-checker 
+
+        version = 0.4.2 
+
+        command': pip install py-html-checker==0.4.2 
+
+        --------------------------------
+        
+        name = sty 
+
+        version = 1.0.4 
+
+        command': pip install sty==1.0.4 
+
+        --------------------------------
+        
+        name = pyTerminalUI 
+
+        version = 1.4.1 
+
+        command': pip install pyTerminalUI==1.4.1 
+
+        --------------------------------
+        
+        name = QREM 
+
+        version = 0.0.56 
+
+        command': pip install QREM==0.0.56 
+
+        --------------------------------
+        
+        name = mockango 
+
+        version = 1.0.1 
+
+        command': pip install mockango==1.0.1 
+
+        --------------------------------
+        
+        name = vandal 
+
+        version = 3.8.8 
+
+        command': pip install vandal==3.8.8 
+
+        --------------------------------
+        
+        name = discord-py-slash-command 
+
+        version = 4.2.1 
+
+        command': pip install discord-py-slash-command==4.2.1 
+
+        --------------------------------
+        
+        name = calltraces 
+
+        version = 2022.7.5.2 
+
+        command': pip install calltraces==2022.7.5.2 
+
+        --------------------------------
+        
+        name = semversioner 
+
+        version = 1.1.0 
+
+        command': pip install semversioner==1.1.0 
+
+        --------------------------------
+        
+        name = subzone 
+
+        version = 0.2.8 
+
+        command': pip install subzone==0.2.8 
+
+        --------------------------------
+        
+        name = discord-py-interactions 
+
+        version = 4.3.0 
+
+        command': pip install discord-py-interactions==4.3.0 
+
+        --------------------------------
+        
+        name = doctoshotgun 
+
+        version = 1.0.1 
+
+        command': pip install doctoshotgun==1.0.1 
+
+        --------------------------------
+        
+        name = VividHues 
+
+        version = 5.9.2 
+
+        command': pip install VividHues==5.9.2 
+
+        --------------------------------
+        
+        name = cgdms 
+
+        version = 1.0 
+
+        command': pip install cgdms==1.0 
+
+        --------------------------------
+        
+        name = pygconsole 
+
+        version = 0.2.0 
+
+        command': pip install pygconsole==0.2.0 
+
+        --------------------------------
+        
+        name = langumo 
+
+        version = 0.2.0 
+
+        command': pip install langumo==0.2.0 
+
+        --------------------------------
+        
+        name = supercli 
+
+        version = 0.0a5 
+
+        command': pip install supercli==0.0a5 
+
+        --------------------------------
+        
+        name = corscanner 
+
+        version = 0.9.7 
+
+        command': pip install corscanner==0.9.7 
+
+        --------------------------------
+        
+        name = KFlask-AppBuilder 
+
+        version = 1.0.1 
+
+        command': pip install KFlask-AppBuilder==1.0.1 
+
+        --------------------------------
+        
+        name = Kato-FlaskAppBuilder 
+
+        version = 1.1.14 
+
+        command': pip install Kato-FlaskAppBuilder==1.1.14 
+
+        --------------------------------
+        
+        name = colorido 
+
+        version = 1.0.0 
+
+        command': pip install colorido==1.0.0 
+
+        --------------------------------
+        
+        name = pplay 
+
+        version = 2.0.9.post1 
+
+        command': pip install pplay==2.0.9.post1 
+
+        --------------------------------
+        
+        name = smtpc 
+
+        version = 0.9.2 
+
+        command': pip install smtpc==0.9.2 
+
+        --------------------------------
+        
+        name = qutebrowser 
+
+        version = 2.5.2 
+
+        command': pip install qutebrowser==2.5.2 
+
+        --------------------------------
+        
+        name = coloring 
+
+        version = 0.1.8 
+
+        command': pip install coloring==0.1.8 
+
+        --------------------------------
+        
+        name = promptly 
+
+        version = 0.6.3 
+
+        command': pip install promptly==0.6.3 
+
+        --------------------------------
+        
+        name = mdiff 
+
+        version = 0.1.5 
+
+        command': pip install mdiff==0.1.5 
+
+        --------------------------------
+        
+        name = Flask-AppBuilder 
+
+        version = 4.1.3 
+
+        command': pip install Flask-AppBuilder==4.1.3 
+
+        --------------------------------
+        
+        name = Vicinator 
+
+        version = 0.0.32 
+
+        command': pip install Vicinator==0.0.32 
+
+        --------------------------------
+        
+        name = radon 
+
+        version = 5.1.0 
+
+        command': pip install radon==5.1.0 
+
+        --------------------------------
+        
+        name = humanfriendly 
+
+        version = 10.0 
+
+        command': pip install humanfriendly==10.0 
+
+        --------------------------------
+        
+        name = Flask-AppBuilder-red 
+
+        version = 2.1.13 
+
+        command': pip install Flask-AppBuilder-red==2.1.13 
+
+        --------------------------------
+        
+        name = Flask-AppBuilder-redirect 
+
+        version = 2.1.13 
+
+        command': pip install Flask-AppBuilder-redirect==2.1.13 
+
+        --------------------------------
+        
+        name = menu-zerobeef 
+
+        version = 0.2 
+
+        command': pip install menu-zerobeef==0.2 
+
+        --------------------------------
+        
+        name = rfclint 
+
+        version = 0.6.1 
+
+        command': pip install rfclint==0.6.1 
+
+        --------------------------------
+        
+        name = dev-shell 
+
+        version = 0.6.0 
+
+        command': pip install dev-shell==0.6.0 
+
+        --------------------------------
+        
+        name = nxtools 
+
+        version = 1.6 
+
+        command': pip install nxtools==1.6 
+
+        --------------------------------
+        
+        name = Flask-AppBuilder-jwi078 
+
+        version = 2.1.13 
+
+        command': pip install Flask-AppBuilder-jwi078==2.1.13 
+
+        --------------------------------
+        
+        name = Flask-AppBuilder-jack 
+
+        version = 3.3.4 
+
+        command': pip install Flask-AppBuilder-jack==3.3.4 
+
+        --------------------------------
+        
+        name = patchman 
+
+        version = 2.0.3 
+
+        command': pip install patchman==2.0.3 
+
+        --------------------------------
+        
+        name = fastqwiper 
+
+        version = 2021.1.58 
+
+        command': pip install fastqwiper==2021.1.58 
+
+        --------------------------------
+        
+        name = headerexposer 
+
+        version = 0.8a15 
+
+        command': pip install headerexposer==0.8a15 
+
+        --------------------------------
+        
+        name = MatrixTest 
+
+        version = 1.3.0 
+
+        command': pip install MatrixTest==1.3.0 
+
+        --------------------------------
+        
+        name = super-selfish 
+
+        version = 0.0.6 
+
+        command': pip install super-selfish==0.0.6 
+
+        --------------------------------
+        
+        name = mugit 
+
+        version = 1.1.1 
+
+        command': pip install mugit==1.1.1 
+
+        --------------------------------
+        
+        name = starcli 
+
+        version = 2.17.1 
+
+        command': pip install starcli==2.17.1 
+
+        --------------------------------
+        
+        name = ido 
+
+        version = 0.5 
+
+        command': pip install ido==0.5 
+
+        --------------------------------
+        
+        name = tfc 
+
+        version = 0.1.10 
+
+        command': pip install tfc==0.1.10 
+
+        --------------------------------
+        
+        name = Voodoo 
+
+        version = 1.6.0 
+
+        command': pip install Voodoo==1.6.0 
+
+        --------------------------------
+        
+        name = grako 
+
+        version = 3.99.9 
+
+        command': pip install grako==3.99.9 
+
+        --------------------------------
+        
+        name = PySignalHound 
+
+        version = 0.0.2 
+
+        command': pip install PySignalHound==0.0.2 
+
+        --------------------------------
+        
+        name = cors 
+
+        version = 1.0.1 
+
+        command': pip install cors==1.0.1 
+
+        --------------------------------
+        
+        name = daily-rss-news 
+
+        version = 5.0.4 
+
+        command': pip install daily-rss-news==5.0.4 
+
+        --------------------------------
+        
+        name = dose 
+
+        version = 1.2.3 
+
+        command': pip install dose==1.2.3 
+
+        --------------------------------
+        
+        name = audible-cli 
+
+        version = 0.2.1 
+
+        command': pip install audible-cli==0.2.1 
+
+        --------------------------------
+        
+        name = discum 
+
+        version = 1.4.0 
+
+        command': pip install discum==1.4.0 
+
+        --------------------------------
+        
+        name = ycc-test 
+
+        version = 0.5.94 
+
+        command': pip install ycc-test==0.5.94 
+
+        --------------------------------
+        
+        name = colouredlogs 
+
+        version = 10.0.1 
+
+        command': pip install colouredlogs==10.0.1 
+
+        --------------------------------
+        
+        name = graphenex 
+
+        version = 1.3.1 
+
+        command': pip install graphenex==1.3.1 
+
+        --------------------------------
+        
+        name = budget-system 
+
+        version = 1.0.3 
+
+        command': pip install budget-system==1.0.3 
+
+        --------------------------------
+        
+        name = tqdm-conan 
+
+        version = 4.27.0 
+
+        command': pip install tqdm-conan==4.27.0 
+
+        --------------------------------
+        
+        name = Color-Console 
+
+        version = 10.0 
+
+        command': pip install Color-Console==10.0 
+
+        --------------------------------
+        
+        name = log-utils 
+
+        version = 0.4.1 
+
+        command': pip install log-utils==0.4.1 
+
+        --------------------------------
+        
+        name = emachinery 
+
+        version = 1.3.1 
+
+        command': pip install emachinery==1.3.1 
+
+        --------------------------------
+        
+        name = Mandark 
+
+        version = 0.0.2 
+
+        command': pip install Mandark==0.0.2 
+
+        --------------------------------
+        
+        name = TatSu 
+
+        version = 5.8.3 
+
+        command': pip install TatSu==5.8.3 
+
+        --------------------------------
+        
+        name = invoke-kubesae 
+
+        version = 0.0.19 
+
+        command': pip install invoke-kubesae==0.0.19 
+
+        --------------------------------
+        
+        name = terminator3 
+
+        version = 0.0.1 
+
+        command': pip install terminator3==0.0.1 
+
+        --------------------------------
+        
+        name = camel-snake-pep8 
+
+        version = 0.2.3 
+
+        command': pip install camel-snake-pep8==0.2.3 
+
+        --------------------------------
+        
+        name = unin 
+
+        version = 1.1.2 
+
+        command': pip install unin==1.1.2 
+
+        --------------------------------
+        
+        name = greynoise 
+
+        version = 1.2.1 
+
+        command': pip install greynoise==1.2.1 
+
+        --------------------------------
+        
+        name = hooks4git 
+
+        version = 0.4.289 
+
+        command': pip install hooks4git==0.4.289 
+
+        --------------------------------
+        
+        name = spotify-ripper-fix 
+
+        version = 2.11 
+
+        command': pip install spotify-ripper-fix==2.11 
+
+        --------------------------------
+        
+        name = prettytable 
+
+        version = 3.3.0 
+
+        command': pip install prettytable==3.3.0 
+
+        --------------------------------
+        
+        name = spotify-ripper-morgaroth 
+
+        version = 2.9.6 
+
+        command': pip install spotify-ripper-morgaroth==2.9.6 
+
+        --------------------------------
+        
+        name = eprints2bags 
+
+        version = 1.10.1 
+
+        command': pip install eprints2bags==1.10.1 
+
+        --------------------------------
+        
+        name = azdev 
+
+        version = 0.1.37 
+
+        command': pip install azdev==0.1.37 
+
+        --------------------------------
+        
+        name = dit 
+
+        version = 1.5 
+
+        command': pip install dit==1.5 
+
+        --------------------------------
+        
+        name = picage 
+
+        version = 0.1.0 
+
+        command': pip install picage==0.1.0 
+
+        --------------------------------
+        
+        name = columnar 
+
+        version = 1.4.1 
+
+        command': pip install columnar==1.4.1 
+
+        --------------------------------
+        
+        name = readme-coverage-badger 
+
+        version = 0.1.2 
+
+        command': pip install readme-coverage-badger==0.1.2 
+
+        --------------------------------
+        
+        name = napari-error-reporter 
+
+        version = 0.3.1 
+
+        command': pip install napari-error-reporter==0.3.1 
+
+        --------------------------------
+        
+        name = licensecheck 
+
+        version = 2022.1.1 
+
+        command': pip install licensecheck==2022.1.1 
+
+        --------------------------------
+        
+        name = dephell 
+
+        version = 0.8.3 
+
+        command': pip install dephell==0.8.3 
+
+        --------------------------------
+        
+        name = pyinventory 
+
+        version = 0.14.0 
+
+        command': pip install pyinventory==0.14.0 
+
+        --------------------------------
+        
+        name = cvdupdate 
+
+        version = 1.1.1 
+
+        command': pip install cvdupdate==1.1.1 
+
+        --------------------------------
+        
+        name = autopython 
+
+        version = 0.3 
+
+        command': pip install autopython==0.3 
+
+        --------------------------------
+        
+        name = Twitch-Channel-Points-Miner-v2 
+
+        version = 2.1.1 
+
+        command': pip install Twitch-Channel-Points-Miner-v2==2.1.1 
+
+        --------------------------------
+        
+        name = awsebcli 
+
+        version = 3.20.3 
+
+        command': pip install awsebcli==3.20.3 
+
+        --------------------------------
+        
+        name = colorful 
+
+        version = 0.5.4 
+
+        command': pip install colorful==0.5.4 
+
+        --------------------------------
+        
+        name = mlfact 
+
+        version = 1.0.2 
+
+        command': pip install mlfact==1.0.2 
+
+        --------------------------------
+        
+        name = zest.releaser 
+
+        version = 6.22.2 
+
+        command': pip install zest.releaser==6.22.2 
+
+        --------------------------------
+        
+        name = openpyn 
+
+        version = 3.0.0 
+
+        command': pip install openpyn==3.0.0 
+
+        --------------------------------
+        
+        name = clipper-sdk 
+
+        version = 0.0.4 
+
+        command': pip install clipper-sdk==0.0.4 
+
+        --------------------------------
+        
+        name = blessings 
+
+        version = 1.7 
+
+        command': pip install blessings==1.7 
+
+        --------------------------------
+        
+        name = fact-test-001 
+
+        version = 1.0.0 
+
+        command': pip install fact-test-001==1.0.0 
+
+        --------------------------------
+        
+        name = yumm 
+
+        version = 0.0.1 
+
+        command': pip install yumm==0.0.1 
+
+        --------------------------------
+        
+        name = duality 
+
+        version = 4.8.1 
+
+        command': pip install duality==4.8.1 
+
+        --------------------------------
+        
+        name = conz 
+
+        version = 0.5 
+
+        command': pip install conz==0.5 
+
+        --------------------------------
+        
+        name = fasttest-selenium 
+
+        version = 0.1.6 
+
+        command': pip install fasttest-selenium==0.1.6 
+
+        --------------------------------
+        
+        name = service-tools 
+
+        version = 0.32 
+
+        command': pip install service-tools==0.32 
+
+        --------------------------------
+        
+        name = zmq-service-tools 
+
+        version = 0.25 
+
+        command': pip install zmq-service-tools==0.25 
+
+        --------------------------------
+        
+        name = ssh-audit 
+
+        version = 2.5.0 
+
+        command': pip install ssh-audit==2.5.0 
+
+        --------------------------------
+        
+        name = wasatch 
+
+        version = 2.1.2 
+
+        command': pip install wasatch==2.1.2 
+
+        --------------------------------
+        
+        name = pycobertura 
+
+        version = 2.1.0 
+
+        command': pip install pycobertura==2.1.0 
+
+        --------------------------------
+        
+        name = ethereum-dasm 
+
+        version = 0.1.5 
+
+        command': pip install ethereum-dasm==0.1.5 
+
+        --------------------------------
+        
+        name = doughnuts 
+
+        version = 4.23.3 
+
+        command': pip install doughnuts==4.23.3 
+
+        --------------------------------
+        
+        name = alpha-build-core 
+
+        version = 0.1.6 
+
+        command': pip install alpha-build-core==0.1.6 
+
+        --------------------------------
+        
+        name = malwoverview 
+
+        version = 5.0.3 
+
+        command': pip install malwoverview==5.0.3 
+
+        --------------------------------
+        
+        name = truedata-ws 
+
+        version = 4.3.4 
+
+        command': pip install truedata-ws==4.3.4 
+
+        --------------------------------
+        
+        name = hunter 
+
+        version = 3.4.3 
+
+        command': pip install hunter==3.4.3 
+
+        --------------------------------
+        
+        name = moban 
+
+        version = 0.8.2 
+
+        command': pip install moban==0.8.2 
+
+        --------------------------------
+        
+        name = ffmpeg-normalize 
+
+        version = 1.23.1 
+
+        command': pip install ffmpeg-normalize==1.23.1 
+
+        --------------------------------
+        
+        name = tinytuya 
+
+        version = 1.6.4 
+
+        command': pip install tinytuya==1.6.4 
+
+        --------------------------------
+        
+        name = sacrebleu-macrof 
+
+        version = 2.0.1 
+
+        command': pip install sacrebleu-macrof==2.0.1 
+
+        --------------------------------
+        
+        name = tqdm 
+
+        version = 4.64.0 
+
+        command': pip install tqdm==4.64.0 
+
+        --------------------------------
+        
+        name = sacrebleu 
+
+        version = 2.2.0 
+
+        command': pip install sacrebleu==2.2.0 
+
+        --------------------------------
+        
+        name = kibot 
+
+        version = 1.2.0 
+
+        command': pip install kibot==1.2.0 
+
+        --------------------------------
+        
