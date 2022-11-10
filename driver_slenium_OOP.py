@@ -24,10 +24,10 @@ class WebScrapper:
 
 
     def get_last_page_number(self, pagination_buttons):
-        last_page_number = pagination_buttons.find_elements_by_tag_name('a')[-2].text
+        last_page_number = pagination_buttons.find_elements(by=By.TAG_NAME, value='a')[-2].text
         if str(last_page_number) == 'Previous':
             last_page_number = 1
-        return last_page_number
+        return int(last_page_number)
 
     def get_pagination_buttons(self):
         return self.driver.find_element(
@@ -36,7 +36,7 @@ class WebScrapper:
         )
 
     def collect_elements(self):
-        for i in range(1, int(self.get_last_page_number(self.get_pagination_buttons()) + 1)):
+        for i in range(1, self.get_last_page_number(self.get_pagination_buttons()) + 1):
             self.driver.get(f'https://pypi.org/search/?o=&q={self.search}&page={i}')
 
             for j in range(1, 22):
@@ -80,6 +80,6 @@ if __name__ == "__main__":
     scrapper = WebScrapper()
     scrapper.collect_elements()
     scrapper.save_result()
-    print("run")
+    print("Finish")
 
 

@@ -1,0 +1,369 @@
+
+                name = get-user-headers 
+
+                version = 0.1.2 
+
+                command': pip install get-user-headers==0.1.2 
+
+                --------------------------------
+                
+                name = iterables-decorator 
+
+                version = 0.1.1 
+
+                command': pip install iterables-decorator==0.1.1 
+
+                --------------------------------
+                
+                name = merpy 
+
+                version = 1.7.9 
+
+                command': pip install merpy==1.7.9 
+
+                --------------------------------
+                
+                name = charade 
+
+                version = 1.0.3 
+
+                command': pip install charade==1.0.3 
+
+                --------------------------------
+                
+                name = lpu 
+
+                version = 0.2.10 
+
+                command': pip install lpu==0.2.10 
+
+                --------------------------------
+                
+                name = pelican-cite 
+
+                version = 1.1.1 
+
+                command': pip install pelican-cite==1.1.1 
+
+                --------------------------------
+                
+                name = pathling 
+
+                version = 6.0.3 
+
+                command': pip install pathling==6.0.3 
+
+                --------------------------------
+                
+                name = pyeer 
+
+                version = 0.5.5 
+
+                command': pip install pyeer==0.5.5 
+
+                --------------------------------
+                
+                name = lexpy 
+
+                version = 1.0.0 
+
+                command': pip install lexpy==1.0.0 
+
+                --------------------------------
+                
+                name = jsonfriendly-redshift 
+
+                version = 1.0.1 
+
+                command': pip install jsonfriendly-redshift==1.0.1 
+
+                --------------------------------
+                
+                name = opendc-eemm 
+
+                version = 0.0.3 
+
+                command': pip install opendc-eemm==0.0.3 
+
+                --------------------------------
+                
+                name = transmute 
+
+                version = 5.0 
+
+                command': pip install transmute==5.0 
+
+                --------------------------------
+                
+                name = cogpyt 
+
+                version = 0.0.1 
+
+                command': pip install cogpyt==0.0.1 
+
+                --------------------------------
+                
+                name = g4rzk 
+
+                version = 0.5 
+
+                command': pip install g4rzk==0.5 
+
+                --------------------------------
+                
+                name = covid19-tracker 
+
+                version = 0.0.8 
+
+                command': pip install covid19-tracker==0.0.8 
+
+                --------------------------------
+                
+                name = breath-main 
+
+                version = 0.1.0 
+
+                command': pip install breath-main==0.1.0 
+
+                --------------------------------
+                
+                name = mini-postoffice 
+
+                version = 0.1.8 
+
+                command': pip install mini-postoffice==0.1.8 
+
+                --------------------------------
+                
+                name = rikai 
+
+                version = 0.1.14 
+
+                command': pip install rikai==0.1.14 
+
+                --------------------------------
+                
+                name = edbob 
+
+                version = 0.1.2 
+
+                command': pip install edbob==0.1.2 
+
+                --------------------------------
+                
+                name = cnlp-transformers 
+
+                version = 0.3.2 
+
+                command': pip install cnlp-transformers==0.3.2 
+
+                --------------------------------
+                
+                name = aio-odoorpc-base 
+
+                version = 3.0.4 
+
+                command': pip install aio-odoorpc-base==3.0.4 
+
+                --------------------------------
+                
+                name = preferredwaveplayer 
+
+                version = 0.0.5 
+
+                command': pip install preferredwaveplayer==0.0.5 
+
+                --------------------------------
+                
+                name = preferredsoundplayer 
+
+                version = 0.0.5 
+
+                command': pip install preferredsoundplayer==0.0.5 
+
+                --------------------------------
+                
+                name = omnipose 
+
+                version = 0.3.5 
+
+                command': pip install omnipose==0.3.5 
+
+                --------------------------------
+                
+                name = omnipose-acdc 
+
+                version = 0.3.4 
+
+                command': pip install omnipose-acdc==0.3.4 
+
+                --------------------------------
+                
+                name = netports 
+
+                version = 0.6.1 
+
+                command': pip install netports==0.6.1 
+
+                --------------------------------
+                
+                name = cg-lims 
+
+                version = 6.5.2 
+
+                command': pip install cg-lims==6.5.2 
+
+                --------------------------------
+                
+                name = thirukkural 
+
+                version = 1.1 
+
+                command': pip install thirukkural==1.1 
+
+                --------------------------------
+                
+                name = pykural 
+
+                version = 1.0.2 
+
+                command': pip install pykural==1.0.2 
+
+                --------------------------------
+                
+                name = tesaurus 
+
+                version = 0.1.3 
+
+                command': pip install tesaurus==0.1.3 
+
+                --------------------------------
+                
+                name = miniboss 
+
+                version = 0.4.5 
+
+                command': pip install miniboss==0.4.5 
+
+                --------------------------------
+                
+                name = imbalance-xgboost 
+
+                version = 0.8.1 
+
+                command': pip install imbalance-xgboost==0.8.1 
+
+                --------------------------------
+                
+                name = hickle 
+
+                version = 5.0.2 
+
+                command': pip install hickle==5.0.2 
+
+                --------------------------------
+                
+                name = hangman-marking-aicore-test 
+
+                version = 1.0.10 
+
+                command': pip install hangman-marking-aicore-test==1.0.10 
+
+                --------------------------------
+                
+                name = hangman-marking-aicore 
+
+                version = 1.1.16 
+
+                command': pip install hangman-marking-aicore==1.1.16 
+
+                --------------------------------
+                
+                name = git-filter-repo 
+
+                version = 2.38.0 
+
+                command': pip install git-filter-repo==2.38.0 
+
+                --------------------------------
+                
+                name = py-liant 
+
+                version = 0.8.7 
+
+                command': pip install py-liant==0.8.7 
+
+                --------------------------------
+                
+                name = lbuild 
+
+                version = 1.21.6 
+
+                command': pip install lbuild==1.21.6 
+
+                --------------------------------
+                
+                name = afdko 
+
+                version = 3.9.1 
+
+                command': pip install afdko==3.9.1 
+
+                --------------------------------
+                
+                name = beartype 
+
+                version = 0.11.0 
+
+                command': pip install beartype==0.11.0 
+
+                --------------------------------
+                
+                name = cds-sorenson 
+
+                version = 0.1.8 
+
+                command': pip install cds-sorenson==0.1.8 
+
+                --------------------------------
+                
+                name = tickle-soren-n 
+
+                version = 0.4.1 
+
+                command': pip install tickle-soren-n==0.4.1 
+
+                --------------------------------
+                
+                name = sorethumb 
+
+                version = 1.0.1 
+
+                command': pip install sorethumb==1.0.1 
+
+                --------------------------------
+                
+                name = minigun-soren-n 
+
+                version = 0.3.0 
+
+                command': pip install minigun-soren-n==0.3.0 
+
+                --------------------------------
+                
+                name = sorentest 
+
+                version = 0.2 
+
+                command': pip install sorentest==0.2 
+
+                --------------------------------
+                
+                name = get-status-code-soreka 
+
+                version = 0.0.2 
+
+                command': pip install get-status-code-soreka==0.0.2 
+
+                --------------------------------
+                
