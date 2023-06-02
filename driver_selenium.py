@@ -9,25 +9,28 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
+import os
 
-options = Options()
-options.add_experimental_option("excludeSwitches", ["enable-logging"])
 driver = webdriver.Chrome(service=Service(
-    ChromeDriverManager().install()), options=options)
+    ChromeDriverManager().install()))
 
 search = input('Input ')
-result = []
+
 
 driver.get(f'https://pypi.org/search/?o=&q={search}')
-pagination_buttons = driver.find_element(
-    by=By.XPATH,
-    value='//*[@id="content"]/div/div/div[2]/form/div[3]/div'
-)
-last_page_number = pagination_buttons.find_elements_by_tag_name('a')[-2].text
+try:
+    pagination_buttons = driver.find_element(
+        by=By.XPATH,
+        value='//*[@id="content"]/div/div/div[2]/form/div[3]/div'
+    )
+    last_page_number = pagination_buttons.find_elements_by_tag_name('a')[-2].text
+except NoSuchElementException :
+    last_page_number = 1
+
 if str(last_page_number) == 'Previous':
     last_page_number = 1
 
-
+result = []
 for i in range(1, int(last_page_number)+1):
     driver.get(f'https://pypi.org/search/?o=&q={search}&page={i}')
 
@@ -55,7 +58,11 @@ for i in range(1, int(last_page_number)+1):
             print(e)
             break
 
-with open(f'result_{search}.txt', 'w', encoding='utf-8') as f:
+if not os.path.exists("results"):
+    os.mkdir("results")
+
+with open(f'results/result_{search}.txt', 'w', encoding='utf-8') as f:
+    f.write(f'Packages found {len(result)}\n')
     for el in result:
         result_str = f"""
         name = {el['name']} \n
